@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="classes.CustomerManager"/>
+    <fullyQualifiedTypeName name="recapDemo_classes.DortIslem"/>
+    <fullyQualifiedTypeName name="classesWithAttributes.ProductManager"/>
+    <fullyQualifiedTypeName name="classesWithAttributes.Product"/>
+    <fullyQualifiedTypeName name="methodOverloading.DortIslem"/>
+    <fullyQualifiedTypeName name="inheritence.Person"/>
+    <fullyQualifiedTypeName name="inheritence.Customer"/>
+    <fullyQualifiedTypeName name="inheritence.Employee"/>
+    <fullyQualifiedTypeName name="inheritence.PersonManager"/>
+    <fullyQualifiedTypeName name="inheritence.EmployeeManager"/>
+    <fullyQualifiedTypeName name="inheritence.CustomerManager"/>
+    <fullyQualifiedTypeName name="inheritenceDemo.KrediUI"/>
+    <fullyQualifiedTypeName name="inheritenceDemo.OgretmenKrediManager"/>
+    <fullyQualifiedTypeName name="inheritenceDemo.BaseKrediManager"/>
+    <fullyQualifiedTypeName name="inheritenceDemo.TarimKrediManager"/>
+    <fullyQualifiedTypeName name="inheritenceDemo.AskerKrediManager"/>
+    <fullyQualifiedTypeName name="oopWithNLayeredApp.business.ProductManager"/>
+    <fullyQualifiedTypeName name="oopWithNLayeredApp.entities.Product"/>
+    <fullyQualifiedTypeName name="oopWithNLayeredApp.dataAccess.ProductDao"/>
+    <fullyQualifiedTypeName name="oopWithNLayeredApp.dataAccess.HibernateProductDao"/>
+    <fullyQualifiedTypeName name="oopWithNLayeredApp.dataAccess.JdbcProductDao"/>
+    <fullyQualifiedTypeName name="java.lang.StringIndexOutOfBoundsException"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="oopWithNLayeredApp.core.logging.DatabaseLogger"/>
+    <fullyQualifiedTypeName name="oopWithNLayeredApp.core.logging.FileLogger"/>
+    <fullyQualifiedTypeName name="oopWithNLayeredApp.Main"/>
+    <fullyQualifiedTypeName name="oopWithNLayeredApp.core.logging.MailLogger"/>
+    <fullyQualifiedTypeName name="oopWithNLayeredApp.core.logging.Logger"/>
+</qualifiedTypeNameHistroy>

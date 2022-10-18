@@ -1,0 +1,20 @@
+package oopWithNLayeredApp;
+
+import oopWithNLayeredApp.entities.Product;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		
+		//	Data Access Layer
+		//	Business Layer
+		//	API
+		// 	UI
+		
+		Product product1 = new Product(1,"Iphone XR",10000);
+		
+	}
+
+}
